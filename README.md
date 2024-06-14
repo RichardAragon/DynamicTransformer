@@ -198,7 +198,8 @@ Contributions are welcome! Please open an issue or submit a pull request.
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
-What Exactly Does the Dynamic Transformer Do?
+## What Exactly Does the Dynamic Transformer Do?
+
 The Dynamic Transformer is an innovative architecture designed to optimize the efficiency and performance of Transformer models by dynamically adjusting the precision of its operations. Traditional Transformer models use full-precision (32-bit floating point) calculations, which can be computationally expensive and power-hungry. The Dynamic Transformer addresses this by introducing the ability to switch between different quantization levels—binary, ternary, and full-precision—during both training and inference.
 
 Key Concepts
